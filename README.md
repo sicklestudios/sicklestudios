@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **ENSRIG**
 
-- I work in **Flutter, Django**
-
 - 📫 How to reach me **studentsthere@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
