@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **ENSRIG**
 
+- 🤝 I’m looking for help with **Flutter Projects**
+
 - 📫 How to reach me **studentsthere@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
