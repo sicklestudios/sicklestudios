@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Haris Amer</h1>
+<h1 align="center">Hi 👋, I'm Sickle Studios</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicklestudios&label=Profile%20views&color=0e75b6&style=flat" alt="sicklestudios" /> </p>
