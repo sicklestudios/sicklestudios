@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ENSRIG**
 
-- 🤝 I’m looking for help with **Flutter Projects**
+- 🤝 Looking forward to working on flutter projects **Flutter Projects**
 
 - 📫 How to reach me **studentsthere@gmail.com**
 
